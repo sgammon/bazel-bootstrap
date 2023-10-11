@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/sirupsen/logrus v1.7.0 // indirect
-	golang.org/x/net v0.0.0-20190311183353-d8887717615a
+	golang.org/x/net v0.17.0
 	google.golang.org/grpc v1.34.0
 )
 
